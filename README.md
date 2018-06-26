@@ -1,2 +1,3 @@
 # dark
-dark is distributed game server framework
+dark is a distributed game server framework
+
